@@ -5,6 +5,12 @@ public class HelloWorld {
         System.out.println("Hello, World");
 
         //This program writed in java langugn
+
+        int i = 1;
+        while (1 < 11); {
+        	System.out.println("Hello World !" + i);
+        }
     }
+
 
 }
